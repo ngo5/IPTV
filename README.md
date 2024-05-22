@@ -35,7 +35,7 @@
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TiviMate|https://tivimate.com/|Android盒子|
 
-TiviMate不能扫码输入，机器麻烦。
+TiviMate不能扫码输入源，极其麻烦。
 
 ## 自带源软件
 
