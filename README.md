@@ -7,7 +7,7 @@
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u|IPV6|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6|
 |[Burning](https://github.com/BurningC4/Chinese-IPTV "Burning")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|
-|[iptv-sources](https://m3u.ibert.me/ "iptv-sources")|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
+|[iptv-sources](https://m3u.ibert.me/ "iptv-sources")|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6 短链接|
 
 ------------
 
