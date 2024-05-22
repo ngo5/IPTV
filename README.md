@@ -33,6 +33,9 @@
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android盒子|
 |影視TV|https://github.com/FongMi/Release/tree/main/apk/release|Android盒子|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
+|TiviMate|https://tivimate.com/|Android盒子|
+
+TiviMate不能扫码输入，机器麻烦。
 
 ## 自带源软件
 
