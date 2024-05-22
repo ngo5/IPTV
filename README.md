@@ -39,6 +39,8 @@ iptv-sources收集源，短链接，导入TiviMate或许会方便一点。
 |TiviMate|https://tivimate.com/|Android盒子|
 |Kodi|https://kodi.tv/|全平台|
 
+影視TV可以单纯导入m3u地址，设置直播自启可以当IPTV用。
+
 TiviMate不能扫码输入源，极其麻烦。
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
