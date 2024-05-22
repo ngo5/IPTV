@@ -34,8 +34,11 @@
 |影視TV|https://github.com/FongMi/Release/tree/main/apk/release|Android盒子|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TiviMate|https://tivimate.com/|Android盒子|
+|Kodi|https://kodi.tv/|全平台|
 
 TiviMate不能扫码输入源，极其麻烦。
+
+Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
 
 ## 自带源软件
 
