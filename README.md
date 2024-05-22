@@ -60,21 +60,23 @@
 
 # 官方电视直播
 
-央视网：https://tv.cctv.com/live/
-央视频：https://www.yangshipin.cn/tv/home
-广东荔枝网：https://gdtv.cn/tvChannelDetail/51
-江苏荔枝网：https://live.jstv.com/
-广西网络广播电视台：https://tv.gxtv.cn/
-芒果TV：https://live.mgtv.com/
-官方APP等等
-谷歌搜索：地方+电视直播
+- 央视网：https://tv.cctv.com/live/
+- 央视频：https://www.yangshipin.cn/tv/home
+- 广东荔枝网：https://gdtv.cn/tvChannelDetail/51
+- 江苏荔枝网：https://live.jstv.com/
+- 广西网络广播电视台：https://tv.gxtv.cn/
+- 芒果TV：https://live.mgtv.com/
+- 官方APP等等
+- 谷歌搜索：地方+电视直播
 
 
 ------------
 
 
 # 第三方电视直播
+
 不推荐
-http://www.freeintertv.com/
-http://tv.haoqu99.com/
-https://345iptv.com/
+
+1. http://www.freeintertv.com/
+2. http://tv.haoqu99.com/
+3. https://345iptv.com/
