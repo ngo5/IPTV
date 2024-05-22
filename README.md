@@ -77,6 +77,6 @@
 
 不推荐
 
-1. http://www.freeintertv.com/
-2. http://tv.haoqu99.com/
-3. https://345iptv.com/
+- http://www.freeintertv.com/
+- http://tv.haoqu99.com/
+- https://345iptv.com/
