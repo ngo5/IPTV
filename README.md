@@ -18,7 +18,7 @@ iptv-sources收集源，短链接，导入TiviMate或许会方便一点。
 # 点播源
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/dc.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
+|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
 |[饭太硬](https://xn--sss604efuw.top/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
 |youdu|https://tvbox.youdu.fan/|源导航|
