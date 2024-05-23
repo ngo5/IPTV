@@ -33,10 +33,10 @@ iptv-sources收集源，短链接，导入TiviMate或许会方便一点。
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android盒子|
-|影視TV|https://github.com/FongMi/Release/tree/main/apk/release|Android盒子|
+|TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
+|影視TV|https://github.com/FongMi/Release/tree/main/apk/release|Android电视|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
-|TiviMate|https://tivimate.com/|Android盒子|
+|TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 
 影視TV可以单纯导入m3u地址，设置直播自启可以当IPTV用。
