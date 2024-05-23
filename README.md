@@ -80,6 +80,8 @@ Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻
 - 芒果TV：https://live.mgtv.com/
 - 官方APP等等
 - 谷歌搜索：地方+电视直播
+- 官方直播地址搜索：https://iptv-org.github.io/
+- IPTV源搜索：http://tonkiang.us/;http://www.foodieguide.com/iptvsearch/
 
 
 ------------
