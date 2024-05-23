@@ -54,6 +54,13 @@ Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻
 |我的电视·一|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视频源|
 
+## 电视浏览器
+
+|名称|地址|备注|
+| ------------ | ------------ | ------------ |
+|BrowseHere|https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk|官方|
+|TV Bro|https://github.com/truefedex/tv-bro/releases|开源|
+
 
 ------------
 
