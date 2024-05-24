@@ -12,7 +12,8 @@
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources")|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
 
 iptv-sources收集源，短链接，导入TiviMate或许会方便一点。
-直播源有人卡有人不卡都是正常的。
+
+直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
 
 ------------
