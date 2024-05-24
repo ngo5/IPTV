@@ -26,6 +26,9 @@ iptv-sources收集源，短链接，导入TiviMate或许会方便一点。
 |youdu|https://tvbox.youdu.fan/|源导航|
 |zwc365|http://kv.zwc365.com/tv.json|自建|
 
+点播源里面自带的基本都是大家都能用的IPV4直播源。
+
+
 ------------
 
 
