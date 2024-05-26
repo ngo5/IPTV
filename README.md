@@ -40,12 +40,22 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/
 
 ## 112114
 
-|程序|接口|
-| ------------ | ------------ |
-|Diyp & 百川|https://epg.112114.xyz/ https://epg.112114.eu.org/ https://diyp.112114.xyz/|
-|超级直播|https://epg.112114.xyz/epginfo|
-|Xml格式|	https://epg.112114.xyz/pp.xml https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml https://epg.112114.xyz/pp.xml.gz https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz|
-|Bing每日图片|https://epg.112114.xyz/bingimg|
+Diyp&百川：
+- https://epg.112114.xyz/
+- https://epg.112114.eu.org/
+- https://diyp.112114.xyz/|
+
+超级直播：
+- https://epg.112114.xyz/epginfo
+
+Xml格式：
+- https://epg.112114.xyz/pp.xml
+- https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+- https://epg.112114.xyz/pp.xml.gz
+- https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
+
+Bing每日图片：
+- https://epg.112114.xyz/bingimg
 
 ## kuke21
 
