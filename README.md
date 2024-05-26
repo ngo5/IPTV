@@ -36,7 +36,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/
 ------------
 
 
-# EPG接口
+# 电子节目单（EPG）接口
 
 ## [112114](https://epg.112114.xyz/ "112114")
 
