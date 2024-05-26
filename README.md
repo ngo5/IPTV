@@ -85,10 +85,10 @@ Bing每日图片：
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 
-1. OK影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
-2. 节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。
-3. 电视建议下载leanback-python-armeabi_v7a.apk，手机建议下载mobile-python-arm64_v8a.apk。
-4. 更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
+- OK影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
+- OK影视节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。
+- OK影视电视建议下载leanback-python-armeabi_v7a.apk，手机建议下载mobile-python-arm64_v8a.apk。
+- OK影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 
 TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
 
