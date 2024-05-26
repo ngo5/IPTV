@@ -38,7 +38,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/
 
 # EPG接口
 
-## 112114
+## [112114](https://epg.112114.xyz/ "112114")
 
 Diyp&百川：
 - https://epg.112114.xyz/
@@ -57,7 +57,7 @@ Xml格式：
 Bing每日图片：
 - https://epg.112114.xyz/bingimg
 
-## kuke21
+## [kuke21](https://epg.erw.cc/ "kuke21")
 
 - 当天节目单：https://epg.erw.cc/e.xml
 - 当天压缩包：https://epg.erw.cc/e.xml.gz
