@@ -80,12 +80,12 @@ Bing每日图片：
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
-|影視TV|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
+|OK影视|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 
-影視TV可以单纯导入m3u地址，设置直播自启可以当IPTV用。
+OK影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。电视建议下载leanback-python-armeabi_v7a.apk，手机建议下载mobile-python-arm64_v8a.apk。更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 
 TiviMate不能扫码输入源，极其麻烦。
 
