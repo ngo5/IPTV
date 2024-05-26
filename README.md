@@ -90,7 +90,7 @@ Bing每日图片：
 3. 电视建议下载leanback-python-armeabi_v7a.apk，手机建议下载mobile-python-arm64_v8a.apk。
 4. 更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 
-TiviMate不能扫码输入源不能自动更新源和节目单，需要解锁高级版才行。
+TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
 
