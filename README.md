@@ -1,6 +1,6 @@
 **IPV4/IPV6 TVBOX 电视直播点播源收集**
 
-[直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
+- [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
 - [电子节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电子节目单epg接口 "电子节目单（EPG）接口")
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
