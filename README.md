@@ -1,5 +1,9 @@
-# IPV4/IPV6 TVBOX 电视直播点播源收集
+**IPV4/IPV6 TVBOX 电视直播点播源收集**
+
+[TOC]
+
 # 直播源
+
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u|IPV6|
@@ -22,6 +26,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 
 # 点播源
+
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
@@ -84,6 +89,7 @@ Bing每日图片：
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
+|Potplayer|https://potplayer.tv/|Windows|
 
 - OK影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
 - OK影视节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。
