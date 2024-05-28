@@ -10,7 +10,7 @@
   * [自带源软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#自带源软件 "自带源软件")
   * [电视浏览器](https://github.com/ngo5/IPTV?tab=readme-ov-file#电视浏览器 "电视浏览器")
 - [GitHub镜像](https://github.com/ngo5/IPTV?tab=readme-ov-file#GitHub镜像 "GitHub镜像")
-- [官方电视直播]](https://github.com/ngo5/IPTV?tab=readme-ov-file#官方电视直播 "官方电视直播]")
+- [官方电视直播](https://github.com/ngo5/IPTV?tab=readme-ov-file#官方电视直播 "官方电视直播")
 - [第三方电视直播](https://github.com/ngo5/IPTV?tab=readme-ov-file#第三方电视直播 "第三方电视直播")
 
 # 直播源
