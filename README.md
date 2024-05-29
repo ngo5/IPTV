@@ -100,7 +100,8 @@ Bing每日图片：
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
-|OK影视|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
+|影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi|Android电视/手机|
+|影视(OK)|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
