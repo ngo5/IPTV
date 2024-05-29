@@ -45,7 +45,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
-|[饭太硬](https://xn--sss604efuw.top/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
+|[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |肥猫|https://肥猫.live/|自建/源导航|
 |yangxiaoge|https://yangxiaoge.github.io/|源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
