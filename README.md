@@ -71,7 +71,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 Diyp&百川：
 - https://epg.112114.xyz/
 - https://epg.112114.eu.org/
-- https://diyp.112114.xyz/|
+- https://diyp.112114.xyz/
 
 超级直播：
 - https://epg.112114.xyz/epginfo
