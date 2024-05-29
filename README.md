@@ -46,6 +46,8 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 | ------------ | ------------ | ------------ |
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
 |[饭太硬](https://xn--sss604efuw.top/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
+|肥猫|https://肥猫.live/|自建/源导航|
+|yangxiaoge|https://yangxiaoge.github.io/|源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
 |youdu|https://tvbox.youdu.fan/|源导航|
 |zwc365|http://kv.zwc365.com/tv.json|自建|
@@ -103,6 +105,7 @@ Bing每日图片：
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
 |影视(OK)|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
+|影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：安卓哥开发|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
