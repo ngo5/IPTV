@@ -52,6 +52,10 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |youdu|https://tvbox.youdu.fan/|源导航|
 |zwc365|http://kv.zwc365.com/tv.json|自建|
 
+饭太硬微信公众号：神秘的哥哥们
+
+肥猫微信公众号：肥猫宝贝
+
 点播源里面自带的基本都是大家都能用的IPV4直播源。
 
 
