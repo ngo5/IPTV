@@ -30,7 +30,7 @@
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") fanmingming源|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
 
-fanmingming源凌晨一两点会403一段时间。
+ipv6源凌晨一两点会403一段时间。
 
 iptv-sources收集源，国内短链接，导入TiviMate或许会方便一点。
 
