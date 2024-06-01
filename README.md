@@ -68,34 +68,11 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 ## [112114](https://epg.112114.xyz/ "112114")
 
-Diyp&百川：
-- https://epg.112114.xyz/
-- https://epg.112114.eu.org/
-- https://diyp.112114.xyz/
-
-超级直播：
-- https://epg.112114.xyz/epginfo
-
-Xml格式：
-- https://epg.112114.xyz/pp.xml
-- https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
-- https://epg.112114.xyz/pp.xml.gz
-- https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml.gz
-
-Bing每日图片：
-- https://epg.112114.xyz/bingimg
+https://epg.112114.xyz/pp.xml
 
 ## [kuke21](https://epg.erw.cc/ "kuke21")
 
-- 当天节目单：https://epg.erw.cc/e.xml
-- 当天压缩包：https://epg.erw.cc/e.xml.gz
-- 当天央卫数：https://epg.erw.cc/cc.xml 
-- 当天央卫数压缩包：https://epg.erw.cc/cc.xml.gz
-- 回看七天（含当天）：https://epg.erw.cc/all.xml
-- 回看七天压缩包（含当天）：https://epg.erw.cc/all.xml.gz
-- 回看七天央卫数（含当天）：https://epg.erw.cc/allcc.xml
-- 回看七天央卫数压缩包（含当天）https://epg.erw.cc/allcc.xml.gz
-- Gitee分流地址：https://gitee.com/Black_crow/xmlgz
+https://epg.erw.cc/e.xml
 
 
 ------------
