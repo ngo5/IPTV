@@ -97,7 +97,7 @@ tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 
 - 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
 - 影视节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。
-- 影视电视建议下载leanback-python-armeabi_v7a.apk，手机建议下载mobile-python-arm64_v8a.apk。
+- 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 
 TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
