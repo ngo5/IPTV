@@ -72,6 +72,16 @@ https://epg.112114.xyz/pp.xml
 
 https://epg.erw.cc/e.xml
 
+## BurningC4
+
+   * **Github**
+      ```
+      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
+      ```
+   * **jsDelivr CDN** (optimized for mainland users) 
+      ```
+      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
+      ```
 
 ------------
 
