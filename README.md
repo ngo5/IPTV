@@ -93,7 +93,7 @@ https://epg.erw.cc/e.xml
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 
-tvbox、影视和影视仓关系图：https://img.chkaja.com/e1f671cdbc3c0900.png
+tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
 - 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
 - 影视节目单功能需要点播源自带m3u不行，某些源开启自带节目单需要科学上网然后在设置里面Doh改为Google。
