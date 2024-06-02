@@ -5,6 +5,7 @@
 - [电子节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电子节目单epg接口 "电子节目单（EPG）接口")
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
   * [kuke21](https://github.com/ngo5/IPTV?tab=readme-ov-file#kuke21 "kuke21")
+  * [BurningC4](https://github.com/ngo5/IPTV?tab=readme-ov-file#BurningC4 "BurningC4")
 - [推荐软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件 "推荐软件")
   * [空壳软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#空壳软件 "空壳软件")
   * [自带源软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#自带源软件 "自带源软件")
@@ -74,14 +75,14 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 ## BurningC4
 
-   * **Github**
-      ```
-      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
-      ```
-   * **jsDelivr CDN** (optimized for mainland users) 
-      ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
-      ```
+### Github
+
+    https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
+    
+### jsDelivr CDN (optimized for mainland users) 
+
+    https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
+    
 
 ------------
 
