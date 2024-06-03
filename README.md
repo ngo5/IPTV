@@ -4,7 +4,7 @@
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
 - [电子节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电子节目单epg接口 "电子节目单（EPG）接口")
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
-  * [kuke21](https://github.com/ngo5/IPTV?tab=readme-ov-file#kuke21 "kuke21")
+  * [EWR](https://github.com/ngo5/IPTV?tab=readme-ov-file#EWR "EWR")
   * [BurningC4](https://github.com/ngo5/IPTV?tab=readme-ov-file#BurningC4 "BurningC4")
 - [推荐软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件 "推荐软件")
   * [空壳软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#空壳软件 "空壳软件")
@@ -69,7 +69,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
     https://epg.112114.xyz/pp.xml
 
-## [kuke21](https://epg.erw.cc/ "kuke21")
+## [EWR](https://epg.erw.cc/ "EWR")
 
     https://epg.erw.cc/e.xml
 
