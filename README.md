@@ -107,9 +107,9 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 原版[ZY Player](https://zyplayer.fun/ "ZY Player")（已停更）：
 
-  * 电脑端 https://github.com/Hunlongyu/ZY-Player
+- ~~电脑端 https://github.com/Hunlongyu/ZY-Player~~
 
-  * 手机端 https://github.com/cuiocean/ZY-Player-APP
+- ~~手机端 https://github.com/cuiocean/ZY-Player-APP~~
 
 ------------
 
