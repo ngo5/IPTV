@@ -52,6 +52,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |cyuan|https://cyuan.netlify.app/|源导航|
 |youdu|https://tvbox.youdu.fan/|源导航|
 |zwc365|http://kv.zwc365.com/tv.json|自建|
+|源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
 饭太硬微信公众号：神秘的哥哥们
 
@@ -102,6 +103,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
+|海阔视界|微信公众号：新方圆小棉袄|Android电视|
 
 tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
