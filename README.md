@@ -103,7 +103,15 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
-|海阔视界|微信公众号：新方圆小棉袄|Android电视|
+|[海阔视界](https://haikuoshijie.cn/ "海阔视界")|微信公众号：新方圆小棉袄|Android电视|
+
+原版[ZY Player](https://zyplayer.fun/ "ZY Player")（已停更）：
+
+  * 电脑端 https://github.com/Hunlongyu/ZY-Player
+
+  * 手机端 https://github.com/cuiocean/ZY-Player-APP
+
+------------
 
 tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
