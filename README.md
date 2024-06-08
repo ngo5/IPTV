@@ -104,7 +104,6 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |TiviMate|https://tivimate.com/|Android电视|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
-|[海阔视界](https://haikuoshijie.cn/ "海阔视界")|微信公众号：新方圆小棉袄|Android电视|
 
 原版[ZY Player](https://zyplayer.fun/ "ZY Player")（已停更）：
 
@@ -140,7 +139,6 @@ Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻
 | ------------ | ------------ | ------------ |
 |BrowseHere|https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk|官方|
 |TV Bro|https://github.com/truefedex/tv-bro/releases|开源|
-
 
 ------------
 
