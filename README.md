@@ -35,6 +35,8 @@ iptv-sources收集源，国内短链接，导入TiviMate或许会方便一点。
 
 直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
+未编辑的直播源：https://www.cnblogs.com/xxy002/p/17858312.html
+
 IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 
