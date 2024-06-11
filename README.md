@@ -49,7 +49,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 | ------------ | ------------ | ------------ |
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
-|肥猫|http://我不是.肥猫.live/接口禁止贩卖|自建/源导航|
+|肥猫|http://like.肥猫.com/你好|自建/源导航|
 |黎歌|https://lige.chat/tvbox|源导航|
 |yangxiaoge|https://yangxiaoge.github.io/|源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
