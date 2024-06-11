@@ -20,8 +20,8 @@
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u|IPV6|
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")Plus|https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6Plus.m3u|IPV6|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")Plus|https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u|IPV6|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u|IPV6|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|
@@ -47,7 +47,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json https://raw.githubusercontent.com/liu673cn/box/main/m.json|聚合|
+|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|聚合|
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |肥猫|http://like.肥猫.com/你好|自建/源导航|
 |黎歌|https://lige.chat/tvbox|源导航|
