@@ -156,6 +156,7 @@ Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻
 
 比如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
+解决无法打开GitHub还有一种方法是更换DNS：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
 ------------
 
