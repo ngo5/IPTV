@@ -37,13 +37,14 @@ iptv-sources收集源，国内短链接，导入TiviMate或许会方便一点。
 
 未编辑的直播源：https://www.cnblogs.com/xxy002/p/17858312.html
 
-IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
+IPV6是否开启查询：
+- https://testipv6.cn/
+- https://ipw.cn/
+- https://ping0.cc/
 
-直播检测有效性：https://github.com/youwen21/flybird-m3u8downloader
-
+直播源检测有效性：https://github.com/youwen21/flybird-m3u8downloader
 
 ------------
-
 
 # 点播源
 
@@ -67,9 +68,7 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
 点播源里面自带的基本都是大家都能用的IPV4直播源。
 
-
 ------------
-
 
 # 电子节目单（EPG）接口
 
@@ -91,10 +90,8 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 
     https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
     
-112114太多人用，运营商屏蔽得很厉害。
 
 ------------
-
 
 # 推荐软件
 
@@ -131,6 +128,8 @@ tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
+
+TiviMate和Kodi只能看直播。
 
 ## 自带源软件
 
