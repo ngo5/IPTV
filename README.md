@@ -57,6 +57,8 @@ IPV6是否开启查询：https://testipv6.cn/ https://ipw.cn/ https://ping0.cc/
 |zwc365|http://kv.zwc365.com/tv.json|自建|
 |源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
+大多数源都是阿里云盘，需要阿里云盘账号登录才能看。
+
 饭太硬微信公众号：神秘的哥哥们
 
 肥猫微信公众号：肥猫宝贝
