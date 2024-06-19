@@ -76,6 +76,11 @@ IPV6是否开启查询：
 
     https://epg.112114.xyz/pp.xml
 
+镜像：
+
+    https://live.fanmingming.com/e.xml
+
+
 ## [ERW](https://epg.erw.cc/ "ERW")
 
     https://epg.erw.cc/e.xml
