@@ -76,7 +76,7 @@ IPV6是否开启查询：
 
     https://epg.112114.xyz/pp.xml
 
-镜像：
+112114无法打开试试镜像：
 
     https://live.fanmingming.com/e.xml
 
