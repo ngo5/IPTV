@@ -28,6 +28,7 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") fanmingming源|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
+|iptv共享系统|https://gyssi.link/login.html|TG获取密钥|
 
 ipv6源凌晨一两点会403一段时间。
 
