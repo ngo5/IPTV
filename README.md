@@ -28,15 +28,13 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") fanmingming源|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
-|iptv共享系统|https://gyssi.link/login.html|TG获取密钥|
 
-ipv6源凌晨一两点会403一段时间。
+杂乱直播源
+- iptv共享系统（TG获取密钥）：https://gyssi.link/login.html
+- epg.pw免费电视节目表 https://epg.pw/test_channel_page.html?lang=zh-hans
+- xxy002整理直播源：https://www.cnblogs.com/xxy002/p/17858312.html
 
-iptv-sources收集源，国内短链接，导入TiviMate或许会方便一点。
-
-直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
-
-未编辑的直播源：https://www.cnblogs.com/xxy002/p/17858312.html
+ipv6源凌晨一两点会403一段时间。iptv-sources镜像了其他人的源，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
 IPV6是否开启查询：
 - https://testipv6.cn/
