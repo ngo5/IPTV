@@ -25,11 +25,12 @@
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u|IPV6|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|
+|joevess|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") fanmingming源|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
 
-ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟）。iptv-sources镜像了其他人的源，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
+ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
 杂乱直播源
 - iptv共享系统（TG获取密钥）：https://gyssi.link/login.html
