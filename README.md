@@ -130,7 +130,7 @@ tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 - 影视2.3.8支持m3u自带的xml节目单，支持节目单功能后某些直播源在节目单里可以选择回放电视。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
-- FongMi影视唐三在维护，说是自用，功能比OK影视少。OK影视正式版微信公众号(OK猫开发)比GitHub更新快一点。
+- FongMi影视唐三在维护，说是自用，功能比OK影视少。OK影视正式版微信公众号(OK猫开发)比GitHub快一个小版本。
 
 TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
 
