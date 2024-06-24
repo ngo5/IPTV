@@ -64,6 +64,8 @@ IPV6是否开启查询
 |zwc365|http://kv.zwc365.com/tv.json|自建|
 |源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
+烂大街的点播源容易失效，需要维护，建议关注源的发布地址/QQ群，否则建议只用直播。
+
 饭太硬微信公众号：神秘的哥哥们
 
 肥猫微信公众号：肥猫宝贝
