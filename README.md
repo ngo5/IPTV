@@ -64,7 +64,7 @@ IPV6是否开启查询
 |zwc365|http://kv.zwc365.com/tv.json|自建|
 |源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
-烂大街的点播源容易失效，需要维护，建议关注源的发布地址/QQ群，否则建议只用直播。
+公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群，否则建议只用直播。
 
 饭太硬微信公众号：神秘的哥哥们
 
@@ -127,10 +127,12 @@ OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
 
 ------------
 
-tvbox、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
+TBBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
+
+TVBOX直播没有台标没有节目单，明明输入了EPG。
 
 - 只用直播推荐用影视。
-- 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用。
+- 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用（支持直播台标）。
 - 影视2.3.8支持m3u自带的xml节目单，支持节目单功能后某些直播源在节目单里可以选择回放电视。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
