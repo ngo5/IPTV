@@ -57,11 +57,15 @@ IPV6是否开启查询
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|自建|
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |肥猫|http://like.肥猫.com/你好|自建/源导航|
+|安卓哥https://安卓哥.com|自建|
+|盒子迷|https://盒子迷.top/禁止贩卖|自建/源导航|
+|摸鱼儿|接口地址：http://我不是.摸鱼儿.top 多线地址：http://小鱼干.摸鱼儿.top|自建|
+|zwc365|http://kv.zwc365.com/tv.json|自建|
 |黎歌|https://lige.chat/tvbox|源导航|
 |yangxiaoge|https://yangxiaoge.github.io/|源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
 |youdu|https://tvbox.youdu.fan/|源导航|
-|zwc365|http://kv.zwc365.com/tv.json|自建|
+|云涧鹤|https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56|源导航|
 |源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
 公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群，否则建议只用直播。
