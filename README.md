@@ -53,7 +53,7 @@ IPV6是否开启查询
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|聚合|
-|OK猫开发|内部接口：http://ok321.top/tv 公开接口：http://ok321.top/ok|自建|
+|OK猫开发|内部接口（有弹幕）：http://ok321.top/tv 公开接口：http://ok321.top/ok|自建|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|自建|
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |肥猫|http://like.肥猫.com/你好|自建/源导航|
