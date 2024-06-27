@@ -52,15 +52,15 @@ IPV6是否开启查询
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|---|
-|OK猫开发|内部接口（有弹幕）：http://ok321.top/tv 公开接口：http://ok321.top/ok|---|
-|[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|---|
-|[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|---|
-|肥猫|http://like.肥猫.com/你好|---|
-|安卓哥|https://安卓哥.com|---|
-|盒子迷|https://盒子迷.top/禁止贩卖|---|
-|摸鱼儿|单线地址：http://我不是.摸鱼儿.top 多线地址：http://小鱼干.摸鱼儿.top|---|
-|zwc365|http://kv.zwc365.com/tv.json|---|
+|[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
+|OK猫开发|内部（有弹幕）：http://ok321.top/tv 公开：http://ok321.top/ok|源|
+|[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
+|[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
+|肥猫|http://like.肥猫.com/你好|源|
+|安卓哥|https://安卓哥.com|源|
+|盒子迷|https://盒子迷.top/禁止贩卖|源|
+|摸鱼儿|单线：http://我不是.摸鱼儿.top 多线：http://小鱼干.摸鱼儿.top|源|
+|zwc365|http://kv.zwc365.com/tv.json|源|
 |黎歌|https://lige.chat/tvbox|源导航|
 |yangxiaoge|https://yangxiaoge.github.io/|源导航|
 |cyuan|https://cyuan.netlify.app/|源导航|
