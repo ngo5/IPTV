@@ -57,7 +57,7 @@ IPV6是否开启查询
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|自建|
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|自建/源导航|
 |肥猫|http://like.肥猫.com/你好|自建/源导航|
-|安卓哥https://安卓哥.com|自建|
+|安卓哥|https://安卓哥.com|自建|
 |盒子迷|https://盒子迷.top/禁止贩卖|自建/源导航|
 |摸鱼儿|接口地址：http://我不是.摸鱼儿.top 多线地址：http://小鱼干.摸鱼儿.top|自建|
 |zwc365|http://kv.zwc365.com/tv.json|自建|
