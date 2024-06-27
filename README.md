@@ -59,7 +59,7 @@ IPV6是否开启查询
 |肥猫|http://like.肥猫.com/你好|源|
 |安卓哥|https://安卓哥.com|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
-|摸鱼儿|单线：http://我不是.摸鱼儿.top 多线：http://小鱼干.摸鱼儿.top|源|
+|[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|单线：http://我不是.摸鱼儿.top 多线：http://小鱼干.摸鱼儿.top|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |黎歌|https://lige.chat/tvbox|源导航|
 |yangxiaoge|https://yangxiaoge.github.io/|源导航|
