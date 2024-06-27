@@ -58,7 +58,7 @@ IPV6是否开启查询
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|---|
 |肥猫|http://like.肥猫.com/你好|---|
 |安卓哥|https://安卓哥.com|---|
-|盒子迷|https://盒子迷.top/禁止贩卖|自建/源导航|
+|盒子迷|https://盒子迷.top/禁止贩卖|---|
 |摸鱼儿|单线地址：http://我不是.摸鱼儿.top 多线地址：http://小鱼干.摸鱼儿.top|---|
 |zwc365|http://kv.zwc365.com/tv.json|---|
 |黎歌|https://lige.chat/tvbox|源导航|
