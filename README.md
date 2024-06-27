@@ -127,7 +127,7 @@ OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
 
 ------------
 
-TBBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
+TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
 TVBOX直播没有台标没有节目单，明明输入了EPG。
 
