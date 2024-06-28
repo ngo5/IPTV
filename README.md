@@ -190,6 +190,7 @@ TiviMate和Kodi只能看直播。
 - 江苏荔枝网：https://live.jstv.com/
 - 广西网络广播电视台：https://tv.gxtv.cn/
 - 芒果TV：https://live.mgtv.com/
+- 新蓝网・浙江网台：http://www.cztv.com/live
 - 官方APP等等
 - 谷歌搜索：地方+电视直播
 - 官方直播地址搜索：https://iptv-org.github.io/
