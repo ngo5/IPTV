@@ -18,7 +18,7 @@
 
 # 直播源
 
-|名称|地址|类型|
+|名称|地址|类型||
 | ------------ | ------------ | ------------ | ------------ |
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|1|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")Plus|https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u|IPV6| |
