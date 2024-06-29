@@ -36,6 +36,8 @@ ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建�
 - iptv共享系统（TG获取密钥）：https://gyssi.link/login.html
 - epg.pw免费电视节目表：https://epg.pw/test_channel_page.html?lang=zh-hans
 - xxy002整理直播源：https://www.cnblogs.com/xxy002/p/17858312.html
+- 文武科技柜：https://www.wangdu.site/software/av-read/339.html
+- Pixman（高级玩法，普通人别折腾）：https://pixman.io/ https://hub.docker.com/r/pixman/pixman
 
 ------------
 
