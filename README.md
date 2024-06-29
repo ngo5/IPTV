@@ -81,7 +81,7 @@ OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
 
 点播源里面自带的基本都是大家都能用的IPV4直播源。
 
-[![OK影视配置图](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图")](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图")
+[![OK影视配置图-用点播自带的直播源直接输入点播源即可](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")
 
 ------------
 
