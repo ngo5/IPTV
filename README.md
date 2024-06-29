@@ -31,7 +31,7 @@
 |YanG-1989 完整版|https://yang-1989.eu.org/m3u/Gather|IPV6|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") 镜像fanmingming|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|
 
-ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
+ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
 杂乱直播源
 - iptv共享系统（TG获取密钥）：https://gyssi.link/login.html
