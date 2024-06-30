@@ -23,15 +23,15 @@
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")Plus|https://live.fanmingming.com/tv/m3u/ipv6Plus.m3u|IPV6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u|IPV6|❌|✔️|
-|[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6| ||
-|[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4| ||
-|joevess|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4| ||
-|[传说引导页](http://tvbox.gert.li "传说引导页")|http://tttttt.tttttttttt.top/tttt.txt|IPV4| ||
-|[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv4.m3u|IPV4| ||
-|[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv6.m3u|IPV6| ||
-|[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6| ||
-|[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6| ||
-|YanG-1989 完整版|https://yang-1989.eu.org/m3u/Gather|IPV6| ||
+|[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6|❌|✔️|
+|[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
+|joevess|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
+|[传说引导页](http://tvbox.gert.li "传说引导页")|http://tttttt.tttttttttt.top/tttt.txt|IPV4|❌|❌|
+|[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv4.m3u|IPV4|❌|❌|
+|[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv6.m3u|IPV6|❌|❌|
+|[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
+|[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|✔️|✔️|
+|YanG-1989 完整版|https://yang-1989.eu.org/m3u/Gather|IPV6|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") 镜像fanmingming|https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
 ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
