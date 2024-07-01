@@ -50,7 +50,11 @@ IPV6是否开启查询
 - https://ipw.cn/
 - https://ping0.cc/
 
-工具（直播源检测有效性）：https://github.com/youwen21/flybird-m3u8downloader
+工具（直播源检测有效性）：
+
+https://github.com/zhimin-dev/iptv-checker
+
+https://github.com/youwen21/flybird-m3u8downloader
 
 ------------
 
