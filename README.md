@@ -166,9 +166,9 @@ TiviMate和Kodi只能看直播。
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|我的电视|https://github.com/lizongying/my-tv/releases|少量台|
-|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|可配置源|
-|我的电视·一|https://github.com/lizongying/my-tv-1/releases|可配置源|
+|~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
+|~~我的电视·〇~~|https://github.com/lizongying/my-tv-0/releases|可配置源|
+|~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视频源|
 |影视仓库|https://wmdz.com/|电视APP合集|
 
