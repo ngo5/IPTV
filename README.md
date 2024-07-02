@@ -72,11 +72,7 @@ https://github.com/youwen21/flybird-m3u8downloader
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|单线：http://我不是.摸鱼儿.top 多线：http://小鱼干.摸鱼儿.top|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |黎歌|https://lige.chat/tvbox|源导航|
-|yangxiaoge|https://yangxiaoge.github.io/|源导航|
-|cyuan|https://cyuan.netlify.app/|源导航|
-|youdu|https://tvbox.youdu.fan/|源导航|
 |云涧鹤|https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56|源导航|
-|源仓库|https://www.yckceo.com/index/applist/tvbox.html|源导航|
 
 推荐饭太硬以及他主页推荐的源。
 
