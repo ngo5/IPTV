@@ -82,7 +82,7 @@ https://github.com/youwen21/flybird-m3u8downloader
 
 肥猫微信公众号：肥猫宝贝
 
-OK猫开发的源影视(FM和OK版)可用，微信公众号同名（暂时被封）。
+OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
 
 点播源里面自带的基本都是大家都能用的IPV4直播源。
 
