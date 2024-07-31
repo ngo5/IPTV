@@ -26,7 +26,7 @@
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4/6|❌|✔️|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
 |joevess|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
-|[传说引导页](http://tvbox.gert.li "传说引导页")|http://tttttt.tttttttttt.top/tttt.txt|IPV4|❌|❌|
+|[传说引导页](http://iptv.qoo.us.kg "传说引导页")|http://tttttt.tttttttttt.top/tttt.txt|IPV4|❌|❌|
 |[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv4.m3u|IPV4|❌|❌|
 |[无止境](https://wuzhij.com/3049.html "无止境")|https://wzsvip.github.io/ipv6.m3u|IPV6|❌|❌|
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
