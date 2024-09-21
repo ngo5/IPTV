@@ -179,8 +179,11 @@ TiviMate和Kodi只能看直播。
 
 
 # GitHub镜像
-- https://mirror.ghproxy.com/
-- https://ghproxy.org/
+- ~~https://mirror.ghproxy.com/~~
+- ~~https://ghproxy.org/~~
+- https://ghp.ci/
+- https://gh-proxy.com/
+- https://ghps.cc/
 
 在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。
 
