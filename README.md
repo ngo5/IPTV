@@ -101,7 +101,7 @@ OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
 
 ## [ERW](https://epg.erw.cc/ "ERW")
 
-    https://epg.erw.cc/e.xml
+    https://e.erw.cc/e.xml
 
 ## BurningC4
 
