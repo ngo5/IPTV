@@ -34,10 +34,10 @@
 ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
 
 杂乱直播源
-- iptv共享系统（TG获取密钥）：https://gyssi.link/login.html
+- iptv共享系统（TG获取密钥，稳定服务收费）：https://gyssi.link/login.html
 - epg.pw免费电视节目表：https://epg.pw/test_channel_page.html?lang=zh-hans
 - xxy002整理直播源：https://www.cnblogs.com/xxy002/p/17858312.html
-- 文武科技柜：https://www.wangdu.site/software/av-read/339.html
+- 文武科技柜（收费）：https://www.wangdu.site/software/av-read/339.html
 - Pixman（普通人别折腾）：https://pixman.io/ https://hub.docker.com/r/pixman/pixman
 
 ------------
@@ -50,8 +50,6 @@ IPV6是否开启查询
 工具（直播源检测有效性）：
 
 https://github.com/zhimin-dev/iptv-checker
-
-https://github.com/youwen21/flybird-m3u8downloader
 
 ------------
 
