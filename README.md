@@ -161,7 +161,7 @@ TiviMate和Kodi只能看直播。
 |~~我的电视·〇~~|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视频源|
-|影视仓库|https://wmdz.com/|电视APP合集|
+|影用仓库|https://wmdz.com/|电视APP合集|
 
 ## 电视浏览器
 
@@ -200,7 +200,7 @@ TiviMate和Kodi只能看直播。
 - 江苏荔枝网：https://live.jstv.com/
 - 广西网络广播电视台：https://tv.gxtv.cn/
 - 芒果TV：https://live.mgtv.com/
-- 新蓝网・浙江网台：http://www.cztv.com/live
+- 新蓝网・浙江网台：https://www.cztv.com/liveTV
 - 官方APP等等
 - 谷歌搜索：地方+电视直播
 - 官方直播地址搜索：https://iptv-org.github.io/
