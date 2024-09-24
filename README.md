@@ -188,7 +188,7 @@ TiviMate和Kodi只能看直播。
 
 解决无法打开GitHub还有一种方法是更换DNS：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
-注意：我设置腾讯IPV6 DNS后会没有IPV6，腾讯IPV4 DNS暂时没问题，建议用阿里DNS。
+注意：我设置腾讯IPV6 DNS后会没有IPV6，腾讯IPV4 DNS暂时没问题，建议用阿里DNS并且只配置IPV4 DNS。
 
 ------------
 
