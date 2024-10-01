@@ -177,7 +177,7 @@ TiviMate和Kodi只能看直播。
 |~~我的电视·〇~~|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网官方源|
-|WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|央视频官方源|
+|WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区官方源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 
 ## 电视浏览器
