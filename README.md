@@ -147,6 +147,18 @@ TVBOX直播没有台标没有节目单，明明输入了EPG。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 - FongMi影视唐三在维护，说是自用，功能比OK影视少。OK影视正式版微信公众号(OK猫开发)比GitHub快一个小版本。
 
+###### 影视 下载
+
+[手机python-arm64_v8a](https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/release/mobile-python-arm64_v8a.apk "手机python-arm64_v8a")
+
+[电视python-armeabi_v7a](https://github.com/FongMi/Release/raw/refs/heads/fongmi/apk/release/leanback-python-armeabi_v7a.apk "电视python-armeabi_v7a")
+
+###### OK影视下载OK影视下载
+
+[手机python-arm64_v8a](https://github.com/FongMi/Release/raw/refs/heads/main/apk/release/mobile-python-arm64_v8a.apk "手机python-arm64_v8a")
+
+[电视python-armeabi_v7a](https://github.com/FongMi/Release/raw/refs/heads/main/apk/release/leanback-python-armeabi_v7a.apk "电视python-armeabi_v7a")
+
 TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版。
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
