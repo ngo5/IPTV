@@ -31,9 +31,14 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
-ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
+ipv6源（基本是中国移动源）相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。
 
-杂乱直播源
+iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。
+
+直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
+
+杂乱直播源：
+
 - iptv共享系统（TG获取密钥，稳定服务收费）：https://gyssi.link/login.html
 - epg.pw免费电视节目表：https://epg.pw/test_channel_page.html?lang=zh-hans
 - xxy002整理直播源：https://www.cnblogs.com/xxy002/p/17858312.html
@@ -42,12 +47,13 @@ ipv6源相对稳定，凌晨一两点会403一段时间（10几分钟），建�
 
 ------------
 
-IPV6是否开启查询
+IPV6是否开启查询：
+
 - https://testipv6.cn/
 - https://ipw.cn/
 - https://ping0.cc/
 
-工具（直播源检测有效性）：
+直播源检测有效性：
 
 https://github.com/zhimin-dev/iptv-checker
 
@@ -69,17 +75,11 @@ https://github.com/zhimin-dev/iptv-checker
 |黎歌|https://lige.chat/tvbox|源导航|
 |云涧鹤|https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56|源导航|
 
-推荐饭太硬以及他主页推荐的源。
+公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群。点播源里面自带的基本都是大家都能用的IPV4直播源。
 
-公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群，否则建议只用直播。
+推荐饭太硬以及他主页推荐的源。饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝
 
-饭太硬微信公众号：神秘的哥哥们
-
-肥猫微信公众号：肥猫宝贝
-
-OK猫开发的源影视(FM和OK版)可用，微信公众号同名。
-
-点播源里面自带的基本都是大家都能用的IPV4直播源。
+OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
 
 [![OK影视配置图-用点播自带的直播源直接输入点播源即可](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")
 
@@ -142,10 +142,11 @@ TVBOX直播没有台标没有节目单，明明输入了EPG。
 
 - 只用直播推荐用影视。
 - 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用（支持直播台标）。
-- 影视2.3.8支持m3u自带的xml节目单，支持节目单功能后某些直播源在节目单里可以选择回放电视。
+- 影视2.3.8及之后的版本支持m3u自带的xml节目单，支持节目单功能后某些直播源在节目单里可以选择回放电视。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
-- FongMi影视唐三在维护，说是自用，功能比OK影视少。OK影视正式版微信公众号(OK猫开发)比GitHub快一个小版本。
+- FongMi影视唐三在维护，说是自用，功能比OK影视少。
+- OK影视正式版微信公众号(OK猫开发)比GitHub快一个小版本。
 
 ------------
 
@@ -174,7 +175,7 @@ TiviMate和Kodi只能看直播。
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
-|~~我的电视·〇~~|https://github.com/lizongying/my-tv-0/releases|可配置源|
+|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网官方源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区官方源|
@@ -195,11 +196,10 @@ TiviMate和Kodi只能看直播。
 - ~~https://ghproxy.org/~~
 - https://ghp.ci/
 - https://gh-proxy.com/
-- https://ghps.cc/
 
 在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。
 
-比如：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+比如：https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 ------------
 
