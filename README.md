@@ -207,6 +207,8 @@ TiviMate和Kodi只能看直播。
 
 注意：我设置腾讯IPV6 DNS后会没有IPV6，腾讯IPV4 DNS暂时没问题，建议用阿里DNS并且只配置IPV4 DNS。
 
+[![](https://img.chkaja.com/04fcba82fa173803.jpg)](https://img.chkaja.com/04fcba82fa173803.jpg)
+
 ------------
 
 # 官方电视直播
