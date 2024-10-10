@@ -175,7 +175,7 @@ TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
 
-TiviMate、Kodi和APTV只能看直播。
+TiviMate、Kodi和iOS的软件只能看直播。
 
 ## 自带源软件
 
