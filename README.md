@@ -129,6 +129,9 @@ OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
 |影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：~~安卓哥开发~~（派大星开发）|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
+|CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
+|XPTV|https://apps.apple.com/us/app/xptv/id6459409368|美区iOS|
+|SteveWatch|https://apps.apple.com/us/app/stevewatch/id6478312533|美区iOS|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 
