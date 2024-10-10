@@ -128,6 +128,7 @@ OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：~~安卓哥开发~~（派大星开发）|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
+|APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 
@@ -171,7 +172,7 @@ TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高
 
 Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。
 
-TiviMate和Kodi只能看直播。
+TiviMate、Kodi和APTV只能看直播。
 
 ## 自带源软件
 
