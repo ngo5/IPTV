@@ -21,6 +21,7 @@
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/itv.m3u|IPV4|✔️|✔️|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|✔️|✔️|
 |YanG-1989完整版|https://tv.iill.top/m3u/Gather|IPV4/6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV6|❌|✔️|
@@ -32,6 +33,8 @@
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
 ipv6源（基本是中国移动源）相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。
+
+推荐fanmingming源，.com打不开可以替换成.cn。
 
 iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。
 
@@ -140,7 +143,7 @@ TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 
 TVBOX直播没有台标没有节目单，明明输入了EPG。
 
-- 只用直播推荐用影视。
+- 只用直播推荐用影视或者自带源软件目录下的“我的电视”。
 - 影视可以单纯导入m3u地址，设置直播自启可以当IPTV用（支持直播台标）。
 - 影视2.3.8及之后的版本支持m3u自带的xml节目单，支持节目单功能后某些直播源在节目单里可以选择回放电视。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
@@ -174,12 +177,17 @@ TiviMate和Kodi只能看直播。
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
+|我的电视|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |我的电视·〇|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网官方源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区官方源|
 |影用仓库|https://wmdz.com/|电视APP合集|
+
+原版“我的电视”是lizongying开发，已经停更，新的“我的电视”参考了原版。
+
+yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZEue
 
 ## 电视浏览器
 
