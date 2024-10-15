@@ -71,7 +71,7 @@ https://github.com/zhimin-dev/iptv-checker
 |肥猫|http://like.肥猫.com/你好|源|
 |安卓哥|https://安卓哥.com|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
-|[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|单线：http://我不是.摸鱼儿.top 多线：http://小鱼干.摸鱼儿.top|源|
+|[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |黎歌|https://lige.chat/tvbox|源导航|
 |云涧鹤|https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56|源导航|
@@ -79,8 +79,6 @@ https://github.com/zhimin-dev/iptv-checker
 公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群。点播源里面自带的基本都是大家都能用的IPV4直播源。
 
 推荐饭太硬以及他主页推荐的源。~~饭太硬微信公众号：神秘的哥哥们~~ 肥猫微信公众号：肥猫宝贝
-
-[![OK影视配置图-用点播自带的直播源直接输入点播源即可](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")
 
 ------------
 
@@ -122,7 +120,7 @@ https://github.com/zhimin-dev/iptv-checker
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
 |影视(OK)|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
-|影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：派大星开发|Android电视/手机|
+|影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
