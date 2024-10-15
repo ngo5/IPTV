@@ -147,7 +147,7 @@ TVBOX直播没有台标没有节目单，明明输入了EPG。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 - FongMi影视唐三在维护，说是自用，功能比OK影视少。
-- 影视(OK)官网下载：http://ok321.top，官网新增Pro版本，含弹幕功能，需要看广告解锁，普通版无广告。官方QQ频道：OK杰克
+- 影视(OK)官网下载：http://ok321.top 官网新增Pro版本，含弹幕功能，需要看广告解锁，普通版无广告。官方QQ频道：OK杰克
 
 ------------
 
