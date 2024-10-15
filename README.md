@@ -44,8 +44,6 @@ iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，�
 
 - iptv共享系统（TG获取密钥，稳定服务收费）：https://gyssi.link/login.html
 - epg.pw免费电视节目表：https://epg.pw/test_channel_page.html?lang=zh-hans
-- xxy002整理直播源：https://www.cnblogs.com/xxy002/p/17858312.html
-- 文武科技柜（收费）：https://www.wangdu.site/software/av-read/339.html
 - Pixman（普通人别折腾）：https://pixman.io/ https://hub.docker.com/r/pixman/pixman
 
 ------------
@@ -68,7 +66,7 @@ https://github.com/zhimin-dev/iptv-checker
 | ------------ | ------------ | ------------ |
 |[饭太硬](https://饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
-|OK猫开发|内部（有弹幕）：http://ok321.top/tv 公开：http://ok321.top/ok|源|
+|OK猫开发|http://ok321.top/ok|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
 |肥猫|http://like.肥猫.com/你好|源|
 |安卓哥|https://安卓哥.com|源|
@@ -80,9 +78,7 @@ https://github.com/zhimin-dev/iptv-checker
 
 公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群。点播源里面自带的基本都是大家都能用的IPV4直播源。
 
-推荐饭太硬以及他主页推荐的源。饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝
-
-OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
+推荐饭太硬以及他主页推荐的源。~~饭太硬微信公众号：神秘的哥哥们~~ 肥猫微信公众号：肥猫宝贝
 
 [![OK影视配置图-用点播自带的直播源直接输入点播源即可](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")](https://img.chkaja.com/c4d2b6b98d738013.png "OK影视配置图-用点播自带的直播源直接输入点播源即可")
 
@@ -126,7 +122,7 @@ OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
 |影视(OK)|https://github.com/FongMi/Release/tree/main/apk/release|Android电视/手机|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
-|影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：~~安卓哥开发~~（派大星开发）|Android电视/手机|
+|影视仓|QQ频道：https://pd.qq.com/s/208da3cbs 微信公众号：派大星开发|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
@@ -135,7 +131,7 @@ OK猫开发的点播源影视(FM和OK版)可用，微信公众号同名。
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 
-原版[ZY Player](https://zyplayer.fun/ "ZY Player")（已停更）：
+~~原版[ZY Player](https://zyplayer.fun/ "ZY Player")：~~
 
 - ~~电脑端 https://github.com/Hunlongyu/ZY-Player~~
 
@@ -153,7 +149,7 @@ TVBOX直播没有台标没有节目单，明明输入了EPG。
 - 影视电视建议下载`leanback-python-armeabi_v7a.apk`，手机建议下载`mobile-python-arm64_v8a.apk`。
 - 影视更详细的使用教学：https://github.com/ngo5/IPTV/tree/main/Instructions
 - FongMi影视唐三在维护，说是自用，功能比OK影视少。
-- OK影视正式版微信公众号(OK猫开发)比GitHub快一个小版本。
+- 影视(OK)官网下载：http://ok321.top，官网新增Pro版本，含弹幕功能，需要看广告解锁，普通版无广告。官方QQ频道：OK杰克
 
 ------------
 
@@ -218,8 +214,6 @@ yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZE
 解决无法打开GitHub还有一种方法是更换DNS：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
 注意：我设置腾讯IPV6 DNS后会没有IPV6，腾讯IPV4 DNS暂时没问题，建议用阿里DNS并且只配置IPV4 DNS。
-
-[![](https://img.chkaja.com/04fcba82fa173803.jpg)](https://img.chkaja.com/04fcba82fa173803.jpg)
 
 ------------
 
