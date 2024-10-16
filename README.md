@@ -118,12 +118,8 @@ IPV6是否开启查询：
 |SteveWatch|https://apps.apple.com/us/app/stevewatch/id6478312533|美区iOS|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
-
-~~原版[ZY Player](https://zyplayer.fun/ "ZY Player")：~~
-
-- ~~电脑端 https://github.com/Hunlongyu/ZY-Player~~
-
-- ~~手机端 https://github.com/cuiocean/ZY-Player-APP~~
+|~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/Hunlongyu/ZY-Player|Windows/Mac/Linux|
+|~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/cuiocean/ZY-Player-APP|Android/iOS|
 
 ------------
 
