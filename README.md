@@ -131,7 +131,7 @@ TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 
 推荐 软件：OK影视 点播源：http://ok321.top/ok 直播源：https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-只看直播推荐 自带源软件目录：我的电视或WebView 电视
+只看直播推荐 自带源软件目录：我的电视、WebView 电视或OK影视只配置直播源并打开软件自启直播
 
 TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版，不如自带源软件目录下“我的电视”。Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。TiviMate、Kodi和iOS的软件只能看直播。
 
