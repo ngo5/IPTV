@@ -41,7 +41,7 @@
 - iptv共享系统（TG获取密钥，稳定服务收费）：https://gyssi.link/login.html
 - epg.pw免费电视节目表：https://epg.pw/test_channel_page.html?lang=zh-hans
 - Pixman（普通人别折腾）：https://pixman.io/ https://hub.docker.com/r/pixman/pixman
-- stream-link.org(本站資源不支持中國大陸、臺灣省以及cloudflare使用)：https://www.stream-link.org/stream-link.m3u
+- stream-link.org(不支持中國大陸、臺灣省以及cloudflare使用)：https://www.stream-link.org/stream-link.m3u
 
 ------------
 
