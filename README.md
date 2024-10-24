@@ -173,9 +173,9 @@ yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZE
 
 ------------
 
-解决无法打开GitHub还有一种方法是更换DNS：https://dns.iui.im/ DNS测速：https://ping.sx/ping
+解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
-注意：我设置腾讯IPV6 DNS后会没有IPV6，腾讯IPV4 DNS暂时没问题（今天发现只设置腾讯IPV4 DNS也能丢失IPV6地址），建议用阿里DNS并且只配置IPV4 DNS。
+注意：我移动宽带设置腾讯DNS后会间歇没有IPV6地址，建议用[阿里DNS](https://www.alidns.com/)。
 
 ------------
 
