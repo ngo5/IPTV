@@ -24,6 +24,7 @@
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/itv.m3u|IPV4|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv6.m3u|IPV6|❌|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv4.m3u|IPV4|❌|✔️|
+|[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|?|❌|❌|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|✔️|✔️|
 |[YanG-1989](https://github.com/YanG-1989/m3u)|https://tv.iill.top/m3u/Gather|IPV4/6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV6|❌|✔️|
@@ -34,7 +35,7 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
-推荐fanmingming源。ipv6源（基本是中国移动源）相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。
+推荐fanmingming源。ipv6源（基本是中国移动源）相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。AKTV只有香港台湾电视台。
 
 杂乱直播源：
 
