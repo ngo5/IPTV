@@ -24,7 +24,7 @@
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/itv.m3u|IPV4|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv6.m3u|IPV6|❌|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv4.m3u|IPV4|❌|✔️|
-|[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|?|❌|❌|
+|[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|IPV4|❌|❌|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|✔️|✔️|
 |[YanG-1989](https://github.com/YanG-1989/m3u)|https://tv.iill.top/m3u/Gather|IPV4/6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV6|❌|✔️|
