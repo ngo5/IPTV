@@ -35,7 +35,7 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
-推荐fanmingming源。ipv6源（基本是中国移动源）相对稳定，凌晨一两点会403一段时间（10几分钟），建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。AKTV只有香港台湾电视台。
+推荐fanmingming源。ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。ipv6源基本可用，不能用检查有没有ipv6或者换个软件，ipv4源不能用试试换个软件。AKTV只有香港台湾电视台。
 
 杂乱直播源：
 
