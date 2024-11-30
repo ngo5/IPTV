@@ -70,6 +70,7 @@ IPV6是否开启查询：
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |黎歌|https://lige.chat/tvbox|源导航|
+|唐三|http://6080.eu.org/|源导航|
 |云涧鹤|https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56|源导航|
 
 公开的点播源容易失效（基本是抓别人的云盘），需要维护，建议关注源的发布地址/QQ群。点播源里面自带的基本都是大家都能用的IPV4直播源。推荐饭太硬以及他主页推荐的源。~~饭太硬微信公众号：神秘的哥哥们~~ 肥猫微信公众号：肥猫宝贝
