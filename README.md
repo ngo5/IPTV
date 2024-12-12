@@ -51,6 +51,7 @@ IPV6是否开启查询：
 - https://testipv6.cn/
 - https://ipw.cn/
 - https://ping0.cc/
+- https://v6.ipinfo.io/
 
 直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
 
@@ -174,8 +175,6 @@ yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZE
 ------------
 
 解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
-
-注意：我移动宽带设置腾讯DNS后会间歇没有IPV6地址，建议用[阿里DNS](https://www.alidns.com/)。
 
 ------------
 
