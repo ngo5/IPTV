@@ -65,7 +65,7 @@ IPV6是否开启查询：
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |OK猫开发|http://ok321.top/ok|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
-|肥猫|http://like.肥猫.com/你好|源|
+|[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
 |安卓哥|https://安卓哥.com|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
