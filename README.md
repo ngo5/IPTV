@@ -16,6 +16,13 @@
 
 ------------
 
+推荐
+- 软件：OK影视
+- 点播源：http://www.饭太硬.com/tv
+- 直播源：https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+
+------------
+
 # 直播源
 
 |名称|地址|类型|EPG|台标|
@@ -128,8 +135,6 @@ IPV6是否开启查询：
 ------------
 
 TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
-
-推荐 软件：OK影视 点播源：http://ok321.top/ok 直播源：https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
 只看直播推荐 自带源软件目录：我的电视、WebView 电视或OK影视只配置直播源并打开软件自启直播
 
