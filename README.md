@@ -16,13 +16,6 @@
 
 ------------
 
-推荐
-- 软件：OK影视
-- 点播源：http://www.饭太硬.com/tv
-- 直播源：https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-------------
-
 # 直播源
 
 |名称|地址|类型|EPG|台标|
@@ -42,7 +35,9 @@
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV6|✔️|✔️|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 
-推荐fanmingming源。ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。ipv6源基本可用，不能用检查有没有ipv6或者换个软件，ipv4源不能用试试换个软件。AKTV只有香港台湾电视台。
+推荐fanmingming源，.com打不开换.cn。ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使用。iptv-sources镜像了其他人的源，打开他的主页还有其他镜像，国内可打开，短链接。直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。ipv6源基本可用，不能用检查有没有ipv6或者换个软件，ipv4源不能用试试换个软件。AKTV只有香港台湾电视台。
+
+------------
 
 杂乱直播源：
 
@@ -136,26 +131,22 @@ IPV6是否开启查询：
 
 TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
-只看直播推荐 自带源软件目录：我的电视、WebView 电视或OK影视只配置直播源并打开软件自启直播
+TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版（付费）。Kodi需要安装后设置中文，IPTV插件安装需要科学上网。TiviMate、Kodi和iOS的软件只能看直播。
 
-TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外自动更新源和节目单需要解锁高级版，不如自带源软件目录下“我的电视”。Kodi需要安装后设置中文，IPTV插件安装需要科学上网，极其麻烦。TiviMate、Kodi和iOS的软件只能看直播。
-
-## 自带源软件
+## 自带源软件（直播）
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
 |我的电视|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
-|~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
-|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|自带源|
-|~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
+|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网**官方**源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区**官方**源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 |我们的电视|https://github.com/andandroidor/ourtv/releases|有广告|
+|~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
+|~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 
-原版“我的电视”是lizongying开发，已经停更，新的“我的电视”参考了原版，界面美观。
-
-yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZEue 默认fanmingming源
+原版“我的电视”是lizongying开发，已经停更。
 
 ## 电视浏览器
 
@@ -176,8 +167,6 @@ yaoxieyoulei我的电视介绍视频：https://www.bilibili.com/video/BV1kN4feZE
 在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。
 
 比如：https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-
-------------
 
 解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
