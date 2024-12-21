@@ -141,16 +141,16 @@ TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外�
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|我的电视|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |我的电视·〇|https://github.com/lizongying/my-tv-0/releases|可配置源|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网**官方**源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区**官方**源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 |我们的电视|https://github.com/andandroidor/ourtv/releases|有广告|
+|~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 
-原版“我的电视”是lizongying开发，已经停更。
+原版“我的电视”是lizongying开发，已经停更。接手版“我的电视”已删库。
 
 ## 电视浏览器
 
