@@ -152,7 +152,7 @@ TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外�
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 
-原版“我的电视”是lizongying开发，已经停更。202412021左右，接手版“我的电视”已删库，范明明.com域名被墙。
+也可以用影视APP只设置直播源再设置打开软件启动直播。原版“我的电视”是lizongying开发，已经停更。202412021左右，接手版“我的电视”已删库，范明明.com域名被墙。
 
 ## 电视浏览器
 
