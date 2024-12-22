@@ -76,7 +76,7 @@ IPV6是否开启查询：
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。
 
-饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 OK猫开发TG：https://t.me/okdespace 影视APP发布TG：https://t.me/fongmi_release
+饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 [OK猫开发TG](https://t.me/okdespace) [影视APP发布TG](https://t.me/fongmi_release)
 
 ------------
 
