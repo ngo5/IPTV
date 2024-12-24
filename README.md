@@ -20,8 +20,7 @@
 
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/itv.m3u|IPV4|✔️|✔️|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv6.m3u|IPV6|❌|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zhoujie218.top/tv/iptv4.m3u|IPV4|❌|✔️|
 |[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|IPV4|❌|❌|
