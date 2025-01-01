@@ -1,36 +1,36 @@
-# This is a basic workflow to help you get started with Actions
+name: update schedule 2:00 
 
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: "0 2 * * *"  # 每天 0 点（UTC 时间）同步一次
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+  sync:
+    runs-on: ubuntu-20.04  # 使用 Ubuntu 最新版本的运行环境
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      # Step 1: 检出当前仓库代码
+      - name: Checkout current repository
+        uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      # Step 2: 配置 Git 用户信息（防止推送时出现错误）
+      - name: Set up Git config
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 3: 添加远程仓库 ngo5/IPTV
+      - name: Add remote repository
+        run: |
+          git remote add upstream https://github.com/ngo5/IPTV.git  # 添加远程仓库 URL
+
+      # Step 4: 拉取 fanmingming/live 仓库的最新代码
+      - name: Pull latest changes from ngo5/IPTV repository
+        run: |
+          git fetch upstream
+          git merge upstream/main --allow-unrelated-histories  # 将 ngo5/IPTV 仓库的 main 分支合并到当前仓库
+
+      # Step 5: 推送同步后的代码到当前仓库
+      - name: Push changes to current repository
+        run: |
+          git push origin main  # 推送到当前仓库的 main 分支 
