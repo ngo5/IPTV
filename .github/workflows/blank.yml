@@ -1,4 +1,4 @@
-name: update schedule 2:00 
+name: update schedule 2:00  
 
 on:
   schedule:
