@@ -167,10 +167,11 @@ TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外�
 - ~~https://mirror.ghproxy.com/~~
 - ~~https://ghproxy.org/~~
 - ~~https://ghp.ci/~~
-- https://ghgo.xyz/
+- ~~https://ghgo.xyz/~~
+- https://ghfast.top/
 - https://gh-proxy.com/
 
-在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
@@ -188,7 +189,7 @@ TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外�
 - 官方APP等等
 - 谷歌搜索：地方+电视直播
 - 官方直播地址搜索：https://iptv-org.github.io/
-- IPTV源搜索：http://tonkiang.us/ http://www.foodieguide.com/iptvsearch/
+- IPTV源搜索：https://tonkiang.us/ http://www.foodieguide.com/iptvsearch/
 
 
 ------------
