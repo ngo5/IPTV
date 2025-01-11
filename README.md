@@ -123,6 +123,7 @@ IPV6是否开启查询：
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
+|M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
 |XPTV|https://apps.apple.com/us/app/xptv/id6459409368|美区iOS|
