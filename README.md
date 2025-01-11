@@ -2,7 +2,7 @@
 
 - [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
-- [电子节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电子节目单epg接口 "电子节目单（EPG）接口")
+- [电视节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电视节目单epg接口 "电视节目单（EPG）接口")
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
   * [ERW](https://github.com/ngo5/IPTV?tab=readme-ov-file#ERW "ERW")
   * [BurningC4](https://github.com/ngo5/IPTV?tab=readme-ov-file#BurningC4 "BurningC4")
@@ -79,7 +79,7 @@ IPV6是否开启查询：
 
 ------------
 
-# 电子节目单（EPG）接口
+# 电视节目单（EPG）接口
 
 ## [112114](https://epg.112114.xyz/ "112114")
 
