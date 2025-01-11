@@ -94,7 +94,7 @@ IPV6是否开启查询：
     https://live.fanmingming.cn/e.xml
 
 
-## [ERW](https://epg.erw.cc/ "ERW")
+## [ERW](https://e.erw.cc/ "ERW")
 
     https://e.erw.cc/e.xml
 
