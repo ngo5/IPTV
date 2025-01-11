@@ -23,7 +23,7 @@
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.com/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.top/tv/iptv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.top/tv/iptv4.m3u|IPV4|✔️|✔️|
-|[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|IPV4|❌|❌|
+|[AKTV](https://aktv.top/)|http://aktv.top/live.m3u|IPV4|✔️|❌|
 |[YanG-1989](https://github.com/YanG-1989/m3u "YanG-1989")|https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u|IPV6|✔️|✔️|
 |[YanG-1989](https://github.com/YanG-1989/m3u)|https://tv.iill.top/m3u/Gather|IPV4/6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV6|✔️|✔️|
@@ -43,7 +43,7 @@
 - [iptv共享系统](https://gyssi.link/login.html)（TG获取密钥，稳定服务收费）
 - [epg.pw免费电视节目表](https://epg.pw/test_channel_page.html?lang=zh-hans)
 - [Pixman](https://pixman.io/)（普通人别折腾）
-- [stream link](https://www.stream-link.org/)(不支持中國大陸、臺灣省以及cloudflare使用)
+- [stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）
 
 ------------
 
