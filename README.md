@@ -65,6 +65,7 @@ IPV6是否开启查询：
 |[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |OK猫开发|http://ok321.top/ok|源|
+|讴歌|https://tv.nxog.top/m/?&jPi|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
 |[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
 |安卓哥|https://安卓哥.com|源|
@@ -139,7 +140,7 @@ TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c090
 
 TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外自动更新源和节目单需要付费解锁高级版。Kodi需要安装后设置中文，IPTV插件安装需要科学上网。TiviMate、Kodi和iOS的软件只能看直播。
 
-## 自带源软件（直播）
+## 自带源软件
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
