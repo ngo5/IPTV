@@ -38,7 +38,7 @@ ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使�
 
 ------------
 
-杂乱直播源：
+其他直播源
 
 - [iptv共享系统](https://gyssi.link/login.html)（TG获取密钥，稳定服务收费）
 - [epg.pw免费电视节目表](https://epg.pw/test_channel_page.html?lang=zh-hans)
@@ -47,14 +47,18 @@ ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使�
 
 ------------
 
-IPV6是否开启查询：
+IPV6是否开启查询
 
 - https://testipv6.cn/
 - https://ipw.cn/
 - https://ping0.cc/
 - https://v6.ipinfo.io/
 
-直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
+------------
+
+直播源检测有效性
+
+- https://github.com/zhimin-dev/iptv-checker
 
 ------------
 
@@ -138,7 +142,7 @@ IPV6是否开启查询：
 
 TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
 
-TVBOX直播没有台标没有节目单。TiviMate不能扫码输入源，另外自动更新源和节目单需要付费解锁高级版。Kodi需要安装后设置中文，IPTV插件安装需要科学上网。TiviMate、Kodi和iOS的软件只能看直播。
+TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输入源，另外自动更新源和节目单需要付费解锁高级版。Kodi需要安装后设置中文，IPTV插件安装需要科学上网。TiviMate、Kodi和iOS的软件只能看直播。
 
 ## 自带源软件
 
