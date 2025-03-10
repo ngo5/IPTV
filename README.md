@@ -68,7 +68,7 @@ IPV6是否开启查询
 |[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |OK猫开发|http://ok321.top/ok|源|
-|讴歌|https://tv.nxog.top/m/?&jPi|源|
+|[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
 |[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
 |~~安卓哥~~|https://安卓哥.com|源|
