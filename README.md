@@ -68,6 +68,7 @@ IPV6是否开启查询
 |[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |OK猫开发|http://ok321.top/ok|源|
+|[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
 |[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
@@ -77,7 +78,7 @@ IPV6是否开启查询
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
 
-点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。
+点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视（OK/FM版）都能用。
 
 饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 [OK猫开发TG](https://t.me/okdespace) [影视APP发布TG](https://t.me/fongmi_release)
 
