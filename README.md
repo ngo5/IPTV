@@ -1,5 +1,7 @@
 # IPV4/IPV6 TVBOX 电视直播点播源收集
 
+# 目录
+
 - [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
 - [电视节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电视节目单epg接口 "电视节目单（EPG）接口")
@@ -119,10 +121,10 @@ IPV6是否开启查询：https://testipv6.cn/
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
 |影视(OK)|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
-|ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
+|ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
