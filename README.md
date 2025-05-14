@@ -47,22 +47,11 @@ ipv6源比较稳定，大部分是中国移动源，建议移动宽带用户使�
 - [iptv共享系统](https://gyssi.link/login.html)（TG获取密钥，稳定服务收费）
 - [epg.pw免费电视节目表](https://epg.pw/test_channel_page.html?lang=zh-hans)
 - [Pixman](https://pixman.io/)（普通人别折腾）
-- [stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）
+- ~~[stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）~~
 
-------------
+IPV6是否开启查询：https://testipv6.cn/
 
-IPV6是否开启查询
-
-- https://testipv6.cn/
-- https://ipw.cn/
-- https://ping0.cc/
-- https://v6.ipinfo.io/
-
-------------
-
-直播源检测有效性
-
-- https://github.com/zhimin-dev/iptv-checker
+直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
 
 ------------
 
@@ -70,9 +59,9 @@ IPV6是否开启查询
 
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
-|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv/|源|
+|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.net/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
-|OK猫开发|http://ok321.top/ok|源|
+|[OK猫开发](https://t.me/okdespace)|http://ok321.top/ok|源|
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
@@ -83,9 +72,9 @@ IPV6是否开启查询
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
 
-点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视（OK/FM版）都能用。
+点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
-饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 [OK猫开发TG](https://t.me/okdespace) [影视APP发布TG](https://t.me/fongmi_release)
+饭太硬微信公众号：神秘的哥哥们 肥猫微信公众号：肥猫宝贝 [影视APP发布TG](https://t.me/fongmi_release)
 
 ------------
 
