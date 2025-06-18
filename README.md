@@ -132,6 +132,7 @@ IPV6是否开启查询：https://testipv6.cn/
 |SteveWatch|https://apps.apple.com/us/app/stevewatch/id6478312533|美区iOS|
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
+|IPTV Player|https://iptvplayer.stream|Web|
 |~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/Hunlongyu/ZY-Player|Windows/Mac/Linux|
 |~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/cuiocean/ZY-Player-APP|Android/iOS|
 
