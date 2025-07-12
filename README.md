@@ -24,7 +24,7 @@
 | ------------ | ------------ | ------------ | ------------ |------------ |
 
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
-|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌||
+|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4|✔️|❌|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
