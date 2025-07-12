@@ -121,6 +121,8 @@ IPV6是否开启查询：https://testipv6.cn/
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
 |影视(OK)|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
+|OrionTV|https://github.com/zimplexing/OrionTV/releases|Android|
+|MoonTV|https://github.com/senshinya/MoonTV|需自己构建|
 |TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
@@ -149,7 +151,6 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
 |油桃TV|https://www.utao.tv/|影视和直播|
-|OrionTV|https://github.com/zimplexing/OrionTV/releases|影视和直播|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|央视网**官方**源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|各地区**官方**源|
 |小飞电视|https://y977.com/tv/|天光云影内置源|
