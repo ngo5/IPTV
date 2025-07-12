@@ -155,12 +155,12 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 |小飞电视|https://y977.com/tv/|天光云影内置源|
 |我的电视·〇|https://github.com/lizongying/my-tv-0/releases|空壳+源|
 |影用仓库|https://wmdz.com/|电视APP合集|
-|~~我们的电视~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
+|~~OurTV~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
 |~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
 
-也可以用影视APP只设置直播源再设置打开软件启动直播。原版“我的电视”是lizongying开发，已经停更。202412021左右，接手版“我的电视”已删库，范明明.com域名被墙。
+也可以用影视APP只设置直播源再设置打开软件启动直播。原版“我的电视”是lizongying开发，已经停更。202412021左右，接手版“我的电视”已删库，范明明.com域名被墙。OurTV[蓝奏云](https://ourtv.lanzoub.com/s/ourtv) [备份](https://quwenjian.cc/#/?code=EZF7Y)
 
 ## 电视浏览器
 
