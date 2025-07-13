@@ -7,7 +7,6 @@
 - [电视节目单（EPG）接口](https://github.com/ngo5/IPTV?tab=readme-ov-file#电视节目单epg接口 "电视节目单（EPG）接口")
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
   * [ERW](https://github.com/ngo5/IPTV?tab=readme-ov-file#ERW "ERW")
-  * [BurningC4](https://github.com/ngo5/IPTV?tab=readme-ov-file#BurningC4 "BurningC4")
 - [推荐软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件 "推荐软件")
   * [空壳软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#空壳软件 "空壳软件")
   * [自带源软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#自带源软件 "自带源软件")
@@ -67,7 +66,7 @@ IPV6是否开启查询：https://testipv6.cn/
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
-|[肥猫](https://肥猫.com/)|http://ceshi.肥猫.com/PandaQ|源|
+|[肥猫](https://肥猫.com/)|http://肥猫.com/|源|
 |~~安卓哥~~|https://安卓哥.com|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
@@ -99,16 +98,6 @@ IPV6是否开启查询：https://testipv6.cn/
 
     https://e.erw.cc/e.xml
 
-## BurningC4
-
-### Github
-
-    https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
-    
-### jsDelivr CDN (optimized for mainland users) 
-
-    https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
-    
 
 ------------
 
