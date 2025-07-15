@@ -4,7 +4,7 @@
 
 - [直播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#直播源 "直播源")
 - [点播源](https://github.com/ngo5/IPTV?tab=readme-ov-file#点播源 "点播源")
-- [EPG](https://github.com/ngo5/IPTV?tab=readme-ov-file#epg "EPG")
+- [EPG](https://github.com/ngo5/IPTV?tab=readme-ov-file#epg)
   * [112114](https://github.com/ngo5/IPTV?tab=readme-ov-file#112114 "112114")
   * [ERW](https://github.com/ngo5/IPTV?tab=readme-ov-file#ERW "ERW")
 - [推荐软件](https://github.com/ngo5/IPTV?tab=readme-ov-file#推荐软件 "推荐软件")
