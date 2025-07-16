@@ -51,7 +51,7 @@
 - [Pixman](https://pixman.io/)（普通人别折腾）
 - ~~[stream link](https://www.stream-link.org/)（資源不支持中國大陸使用）~~
 
-IPV6是否开启查询：https://testipv6.cn/
+IPV6是否开启查询：https://testipv6.com
 
 直播源检测有效性：https://github.com/zhimin-dev/iptv-checker
 
