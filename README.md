@@ -27,6 +27,7 @@
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
 |[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
 |[AKTV](https://t.me/MYOKKTV)|https://aktv.space/live.m3u|IPV4|✔️|❌|
+|[zwc456baby](https://github.com/zwc456baby/iptv_alive)|https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
