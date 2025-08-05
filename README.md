@@ -74,6 +74,7 @@ IPV6是否开启查询：https://testipv6.com
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
+|FongMi|https://fongmi.eu.org/|源导航|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
