@@ -22,21 +22,21 @@
 |名称|地址|类型|EPG|台标|
 | ------------ | ------------ | ------------ | ------------ |------------ |
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
+|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
+|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
+|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4|✔️|❌|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
-|[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
-|[AKTV](https://t.me/MYOKKTV)|https://aktv.space/live.m3u|IPV4|✔️|❌|
+|~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
+|~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
 |[zwc456baby](https://github.com/zwc456baby/iptv_alive)|https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u|IPV4|✔️|✔️|
-|[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
-|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
-|[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
 |[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
 |[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|IPV6|✔️|✔️|
-|[传说引导页](https://host.fr.345888.xyz.cdn.cloudflare.net/index.html)|http://tot.totalh.net/tttt.txt|IPV4|❌|❌|
+|[传说引导页](https://oooo.cc.ua/)|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
 |[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
 
@@ -75,6 +75,7 @@ IPV6是否开启查询：https://testipv6.com
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
 |FongMi|https://fongmi.eu.org/|源导航|
+|[APP宫殿](https://linux.do/t/topic/1038417)|https://gongdian.top/tvbox/nanfeng/api.json|源|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
@@ -118,6 +119,7 @@ IPV6是否开启查询：https://testipv6.com
 |TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
+|天光云影|https://github.com/mytv-android/mytv-android|Android电视|
 |ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
 |M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
@@ -148,8 +150,8 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 |小飞电视|https://y977.com/tv/|天光云影内置源|
 |小微直播|http://www.xiaoweizhibo.net/mobile.html|第三方|
 |大吉电视|https://www.dajitv.com/dajitv-app/|免费受限|
-|天光云影|https://github.com/mytv-android/mytv-android|空壳|
 |我的电视·〇|https://github.com/lizongying/my-tv-0/releases|空壳+源|
+|GD影视|https://www.gongdian.top/?p=4761|OK影视空壳内置源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 |~~OurTV~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
 |~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
@@ -169,7 +171,6 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 
 
 # GitHub镜像
-- https://github.do/
 - https://ghfast.top/
 - https://gh-proxy.com/
 
