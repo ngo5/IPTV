@@ -24,6 +24,8 @@
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
+|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV6|✔️|✔️|
+|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4|✔️|❌|
@@ -76,6 +78,7 @@ IPV6是否开启查询：https://testipv6.com
 |唐三|http://6080.eu.org/|源导航|
 |FongMi|https://fongmi.eu.org/|源导航|
 |[APP宫殿](https://linux.do/t/topic/1038417)|https://gongdian.top/tvbox/nanfeng/api.json|源|
+|Guovin|https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json|源|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
