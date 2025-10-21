@@ -24,7 +24,7 @@
 |[YanG-1989](https://yang-1989.eu.org/)|https://tv.iill.top/m3u/Gather|IPV4|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv6.m3u|IPV6|✔️|✔️|
 |[vbskycn](https://github.com/vbskycn/iptv)|https://live.zbds.org/tv/iptv4.m3u|IPV4|✔️|✔️|
-|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV6|✔️|✔️|
+|[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|IPV6|✔️|✔️|
 |[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
 |[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u|IPV4|❌|✔️|
