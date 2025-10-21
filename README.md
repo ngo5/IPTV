@@ -27,20 +27,18 @@
 |[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV6|✔️|✔️|
 |[Guovin](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
 |[fanmingming](https://github.com/fanmingming/live "fanmingming")|https://live.fanmingming.cn/tv/m3u/ipv6.m3u|IPV6|✔️|✔️|
-|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u|IPV4|✔️|❌|
+|[YueChan](https://github.com/YueChan/Live "YueChan")|https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u|IPV4|❌|✔️|
 |[Kimentanm](https://github.com/Kimentanm/aptv "Kimentanm")|https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u|IPV4|✔️|❌|
 |[BurningC4](https://github.com/BurningC4/Chinese-IPTV "BurningC4")|https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u|IPV4|❌|❌|
-|~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
-|~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
 |[zwc456baby](https://github.com/zwc456baby/iptv_alive)|https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u|IPV4|✔️|✔️|
 |[ChinaIPTV](https://github.com/hujingguang/ChinaIPTV)|https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8|IPV4|❌|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u|IPV4|✔️|✔️|
 |[myIPTV](https://github.com/suxuang/myIPTV)|https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u|IPV6|✔️|✔️|
-|[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u|IPV4|✔️|✔️|
-|[iptv-api](https://github.com/Guovin/iptv-api)|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|IPV6|✔️|✔️|
 |[传说引导页](https://oooo.cc.ua/)|http://tttttt.tttttttttt.top/jk.txt|IPV4|❌|❌|
-|[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV4|✔️|✔️|
+|[iptv-sources](https://m3u.ibert.me/ "iptv-sources") |https://m3u.ibert.me/fmml_ipv6.m3u|IPV6|✔️|✔️|
 |~~[joevess](https://github.com/joevess/IPTV)~~|https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u|IPV4|❌|✔️|
+|~~[Ftindy](https://github.com/Ftindy/IPTV-URL "Ftindy")~~|https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u|IPV4|✔️|✔️|
+|~~[AKTV](https://t.me/MYOKKTV)~~|https://aktv.space/live.m3u|IPV4|✔️|❌|
 
 直播源有人卡有人不卡都是正常的，请测试后选择适合自己地区的直播源。20250115突然大部分IPV6直播源只能本省看，好多项目IPV6源也替换成IPV4源，现在看直播可试试“自带源软件”下几个软件。也可以先输入点播源，这样会自动填写点播源自带的直播源。
 
@@ -71,7 +69,6 @@ IPV6是否开启查询：https://testipv6.com
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
 |[肥猫](https://肥猫.com/)|http://肥猫.com/|源|
-|~~安卓哥~~|https://安卓哥.com|源|
 |盒子迷|https://盒子迷.top/禁止贩卖|源|
 |[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
 |zwc365|http://kv.zwc365.com/tv.json|源|
@@ -79,6 +76,7 @@ IPV6是否开启查询：https://testipv6.com
 |FongMi|https://fongmi.eu.org/|源导航|
 |[APP宫殿](https://linux.do/t/topic/1038417)|https://gongdian.top/tvbox/nanfeng/api.json|源|
 |Guovin|https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json|源|
+|~~安卓哥~~|https://安卓哥.com|源|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
 
@@ -153,8 +151,8 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 |小飞电视|https://y977.com/tv/|天光云影内置源|
 |小微直播|http://www.xiaoweizhibo.net/mobile.html|第三方|
 |大吉电视|https://www.dajitv.com/dajitv-app/|免费受限|
-|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|空壳+源|
-|GD影视|https://www.gongdian.top/?p=4761|OK影视空壳内置源|
+|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|内置源|
+|GD影视|https://www.gongdian.top/?p=4761|OK影视内置源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 |~~OurTV~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
 |~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
