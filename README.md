@@ -114,9 +114,9 @@ IPV6是否开启查询：https://testipv6.com
 | ------------ | ------------ | ------------ |
 |TVBOX|https://github.com/o0HalfLife0o/TVBoxOSC/releases|Android电视|
 |影视(FongMi)|https://github.com/FongMi/Release/tree/fongmi/apk/release|Android电视/手机|
-|影视(OK)|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
+|OK影视|https://github.com/FongMi/Release/tree/okjack/apk/release|Android电视/手机|
 |OrionTV|https://github.com/zimplexing/OrionTV/releases|Android电视|
-|MoonTV|https://github.com/senshinya/MoonTV|需自己构建|
+|MoonTV|https://github.com/MoonTechLab/LunaTV|需自己构建|
 |TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
@@ -141,7 +141,7 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 
 ## 自带源软件
 
-电视直播 电视APP
+电视直播 安卓电视APP
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
@@ -165,7 +165,7 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 
 |名称|地址|备注|
 | ------------ | ------------ | ------------ |
-|BrowseHere|https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk|官方|
+|BrowseHere|[v6.44.011](https://tcl-img.b-cdn.net/BrowseHere/APK/release/ape_6.44.011_4f72312d_221221_gp_BrowseHere.apk)|官方|
 |TV Bro|https://github.com/truefedex/tv-bro/releases|开源|
 
 ------------
@@ -175,7 +175,7 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 - https://ghfast.top/
 - https://gh-proxy.com/
 
-在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://github.do/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+在国内网络无法打开GitHub相关地址时候使用，使用方法是在地址前加上面其中一个链接。举例：https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 解决无法打开GitHub还有一种方法是更换DNS。DNS合集：https://dns.iui.im/ DNS测速：https://ping.sx/ping
 
