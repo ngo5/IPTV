@@ -74,8 +74,8 @@ IPV6是否开启查询：https://testipv6.com
 |zwc365|http://kv.zwc365.com/tv.json|源|
 |唐三|http://6080.eu.org/|源导航|
 |FongMi|https://fongmi.eu.org/|源导航|
-|[APP宫殿](https://linux.do/t/topic/1038417)|https://gongdian.top/tvbox/nanfeng/api.json|源|
-|Guovin|https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json|源|
+|~~[APP宫殿](https://gongdian.top/)~~|https://gongdian.top/tvbox/nanfeng/api.json|源|
+|~~Guovin~~|https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json|源|
 |~~安卓哥~~|https://安卓哥.com|源|
 
 点播源容易失效和遭人举报，建议关注原发布地址。付费源不可信，毕竟不是版权方。推荐饭太硬以及他主页推荐的源。这些点播源一般影视APP（OK/FM版）都能用。
@@ -148,16 +148,17 @@ TVBOX直播没有台标没有节目单，影视APP有。TiviMate不能扫码输�
 |油桃TV|https://www.utao.tv/|影视和直播|
 |电视浏览器|https://github.com/Eanya-Tonic/CCTV_Viewer/releases|官方源|
 |WebView 电视|https://github.com/hxh19950701/WebViewTvLive/releases|官方源|
-|小飞电视|https://y977.com/tv/|天光云影内置源|
-|小微直播|http://www.xiaoweizhibo.net/mobile.html|第三方|
 |大吉电视|https://www.dajitv.com/dajitv-app/|免费受限|
-|我的电视·〇|https://github.com/lizongying/my-tv-0/releases|内置源|
 |GD影视|https://www.gongdian.top/?p=4761|OK影视内置源|
 |影用仓库|https://wmdz.com/|电视APP合集|
 |~~OurTV~~|https://github.com/andandroidor/ourtv/releases|有广告但不影响观看|
 |~~我的电视~~|https://github.com/yaoxieyoulei/mytv-android/releases|可配置源|
 |~~我的电视~~|https://github.com/lizongying/my-tv/releases|少量台|
 |~~我的电视·一~~|https://github.com/lizongying/my-tv-1/releases|可配置源|
+|~~小微直播~~|http://www.xiaoweizhibo.net/mobile.html|第三方|
+|~~我的电视·〇~~|https://github.com/lizongying/my-tv-0/releases|内置源|
+|~~小飞电视~~|https://y977.com/tv/|天光云影内置源|
+
 
 也可以用影视APP只设置直播源再设置打开软件启动直播。原版“我的电视”是lizongying开发，已经停更。202412021左右，接手版“我的电视”已删库，范明明.com域名被墙。
 
