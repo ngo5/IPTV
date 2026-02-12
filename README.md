@@ -62,7 +62,7 @@ IPV6是否开启查询：https://testipv6.com
 |名称|地址|类型|
 | ------------ | ------------ | ------------ |
 |OK猫开发|http://ok213.top/tv|源|
-|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.net/tv|源|
+|[饭太硬](https://www.饭太硬.com/ "饭太硬")|http://www.饭太硬.com/tv|源|
 |[liucn](https://raw.liucn.cc/box/ "liucn")|https://raw.liucn.cc/box/m.json|源|
 |王小二|https://9280.kstore.space/wex.json|源|
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
