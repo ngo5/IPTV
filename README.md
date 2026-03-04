@@ -122,7 +122,7 @@ IPV6是否开启查询：https://testipv6.com
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |天光云影|https://github.com/mytv-android/mytv-android|Android电视|
-|ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|Windows/macOS/Linux|
+|ZyFun|https://github.com/Hiram-Wong/ZyPlayer/releases|Windows/macOS/Linux|
 |M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
