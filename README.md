@@ -118,11 +118,11 @@ IPV6是否开启查询：https://testipv6.com
 |TVBox-Swift|https://github.com/Jstrom2022/tvbox-Swift|macOS/iOS|
 |OrionTV|https://github.com/zimplexing/OrionTV/releases|Android电视|
 |MoonTV|https://github.com/MoonTechLab/LunaTV|需自己构建|
-|TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|MacOS Windows Linux|
+|TV-Multiplatform|https://github.com/Greatwallcorner/TV-Multiplatform/releases|Windows/macOS/Linux|
 |影视仓|https://pd.qq.com/s/208da3cbs|Android电视/手机|
 |TiviMate|https://tivimate.com/|Android电视|
 |天光云影|https://github.com/mytv-android/mytv-android|Android电视|
-|ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|MacOS Windows Linux|
+|ZyPlayer|https://github.com/Hiram-Wong/ZyPlayer/releases|Windows/macOS/Linux|
 |M3U IPTV|https://m3u-ip.tv/|Android电视|
 |APTV|https://apps.apple.com/cn/app/aptv/id1630403500|iOS|
 |CMSPlayer|https://apps.apple.com/us/app/cmsplayer/id6450680262|美区iOS|
@@ -131,7 +131,7 @@ IPV6是否开启查询：https://testipv6.com
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 |IPTV Player|https://iptvplayer.stream|Web|
-|~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/Hunlongyu/ZY-Player|Windows/Mac/Linux|
+|~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/Hunlongyu/ZY-Player|Windows/macOS/Linux|
 |~~[ZY Player](https://zyplayer.fun/)~~|https://github.com/cuiocean/ZY-Player-APP|Android/iOS|
 
 ------------
