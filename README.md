@@ -123,6 +123,7 @@
 |Kodi|https://kodi.tv/|全平台|
 |Potplayer|https://potplayer.tv/|Windows|
 |IPTV Player|https://iptvplayer.stream|Web|
+|Free IPTV Player|https://freeiptvplayer.net/iptv-player/|Web，可加载 M3U URL 或上传 M3U 文件|
 
 ok影视删库，ok影视fork：https://github.com/lystv/fmapp/tree/ok/apk/release
 
